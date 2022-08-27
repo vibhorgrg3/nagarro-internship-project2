@@ -1,4 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
+# Future Shop
 
 Hi! My name is **Vibhor Garg**, 
 # Prerequisite
